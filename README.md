@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Farooq-S19/Leetcode/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Farooq-S19/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Farooq-S19/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Dynamic Programming
@@ -11,4 +12,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Farooq-S19/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Farooq-S19/Leetcode/tree/master/0119-pascals-triangle-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Farooq-S19/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
