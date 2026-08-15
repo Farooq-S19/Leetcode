@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Farooq-S19/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Farooq-S19/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Farooq-S19/Leetcode/tree/master/0035-search-insert-position) |
 | [0118-pascals-triangle](https://github.com/Farooq-S19/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Farooq-S19/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -30,9 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Farooq-S19/Leetcode/tree/master/0011-container-with-most-water) |
 | [0287-find-the-duplicate-number](https://github.com/Farooq-S19/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Farooq-S19/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Farooq-S19/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
