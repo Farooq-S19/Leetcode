@@ -1,7 +1,14 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hash = {}
-        for i in range(len(nums)):
-            if nums[i] in hash:
-                return [hash[nums[i]],i]
-            hash[target-nums[i]]=i
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        findin = {}
+        volume = len(nums)
+        for i in range(volume):
+            if nums[i] in findin:
+                return findin[nums[i]],i
+            findin[target-nums[i]] = i
+            
