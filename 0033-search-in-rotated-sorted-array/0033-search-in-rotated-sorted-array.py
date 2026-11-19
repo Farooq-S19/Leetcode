@@ -9,7 +9,7 @@ class Solution(object):
         left=0
         right=n-1
         while left<=right:
-            mid= left+(right-left)//2
+            mid= (left+right)//2
             if nums[mid]==target:
                 return mid
             if nums[left]<=nums[mid]:
